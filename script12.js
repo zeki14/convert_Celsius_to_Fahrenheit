@@ -17,7 +17,7 @@
             return newArr;
         }
 
-// Using .filter() and the Bolean() function
+// Using .filter() and the Boolean() function
 
         function bouncer(arr) {
             return  arr.filter(Boolean);
